@@ -1,7 +1,7 @@
 # Lab 1: Basic 2-PC LAN
 
 ## Tools used
-- Cisco Packet Tracer
+- Cisco Packet Tracer.
 
 ## Network topology
 ![Lab 1 topology](Lab1-topology.png)
