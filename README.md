@@ -1,6 +1,9 @@
-# Welcome to GitHub Desktop!
+# Lab 1: Basic 2-PC LAN
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+## IP Configuration
+- **PC0:** `192.168.1.10/24`
+- **PC1:** `192.168.1.11/24`
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-Boitumelo
+## Status
+- [X] Switch connection active
+- [X] Ping verified between PC0 and PC1
