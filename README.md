@@ -1,5 +1,8 @@
 # Lab 1: Basic 2-PC LAN
 
+## Network topology
+![Lab 1 topology](Lab1-topology.png)
+
 ## IP Configuration
 - **PC0:** `192.168.1.10/24`
 - **PC1:** `192.168.1.11/24`
